@@ -35,9 +35,9 @@ b. Then in your terminal change directory to the downloaded file and execute "np
 
 c. Then to start the server you have to execute "node app.js".
 
-e. Your server is up and running.
+d. Your server is up and running.
 
-f. CSV files will be saved in "savedCsvFiles" folder.
+e. CSV files will be saved in "savedCsvFiles" folder.
 
 ===================================================================================================
 
