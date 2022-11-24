@@ -24,7 +24,7 @@ const fn = async () => {
   }
 }
 
-module.exports.task = cron.schedule('*/1 * * * *', () => {
+module.exports.task = cron.schedule('*/15 * * * *', () => {
   console.log('Checking Latest News')
   fn()
 })
